@@ -1,0 +1,2 @@
+# Algorithmic-Trading
+Mini Project
